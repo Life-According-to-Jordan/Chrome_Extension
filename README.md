@@ -4,6 +4,8 @@ Easily build your own chrome extension that allows you to easily click on your d
 
 Shoutout to the tutorials that made this happen and special thanks to Shreya Patel for always encouraging me! 
 
+Thank you to Traversy Media for the framework! 
+
 ## Tutorials
 [Traversy Media](https://www.youtube.com/watch?v=wHZCYi1K664)
 
